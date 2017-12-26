@@ -118,8 +118,6 @@
         NSLog(@"找不到文件");
     }
     return filesize;//in kb
-    
-    self.test(@"666");
 }
 
 
